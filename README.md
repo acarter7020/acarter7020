@@ -26,4 +26,4 @@ I'm a Business Analyst and Configuration Specialist with experience in healthcar
 
   These examples are meant to demonstrate both my analytical thought process and technical documentation style.
 
-  Feel free to explore the repositories and reach out via LinkedIn.
+  Feel free to explore the repositories and reach out via LinkedIn for professional inquiries [LinkedIn]      (https://www.linkedin.com/in/andrewsuhcarter/)
