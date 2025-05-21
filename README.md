@@ -11,6 +11,7 @@ I'm a Business Analyst and Configuration Specialist with experience in healthcar
 
 ## 🛠 Tools & Technologies:
 - SQL Server
+- PostgreSQL
 - Excel
 - Python (in progress)
 - Markdown
