@@ -3,7 +3,7 @@
 I'm a Business Analyst and Configuration Specialist with experience in healthcare systems and payer platforms (HealthRules Payor). I bring a strong understanding of benefit configuration, claims logic, and cross-functional documentation - paired with growing technical skills in SQL, database design, and data analysis. 
 
 ## 🔍 Areas of Focus:
-- SQL & Relational Databases (MS SQL Server)
+- SQL & Relational Databases (MS SQL Server, PostgreSQL)
 - Source-to-Target Mapping & Data Validation
 - Data Warehouse Concepts
 - Business Requirements & System Design
