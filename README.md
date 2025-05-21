@@ -17,13 +17,14 @@ I'm a Business Analyst and Configuration Specialist with experience in healthcar
 - HealthRules Payor (Configuration & Testing)
 
 ## 📁 Featured Projects:
-- [Healthcare Claims Source-to-Target Mapping (Demo)] ()
+### [CMS Claims Data Pipeline] (https://github.com/acarter7020/cms-claims-data-pipeline)
   A simplified, de-identified example of mapping Healthcare claims data from raw source tables to a reporting-ready format.
-  Includes example transformation logic and validation notes. _Note: This is a de-identified mock-up based on industry patterns.   It does not contain real data._
-- [ERD Design Sample] ()
-  A visual schema designed in Excel to simulate a data warehouse structure used for claims reporting. Shows primary/foreign key   relationships and common join paths between member, provider, and claims-related tables. _Note: This is a de-identified mock-  up based on industry patterns. It does not contain real data._
-- [SQL Practice Queries] ()
+  Includes SQL scripts, schema design, and sample queries.
+  _Note: This is de-identified synthetic data based on industry patterns. It does not contain real data._
+### [ERD Design Sample] ()
+  _Coming Soon_
 
-  These examples are meant to demonstrate both my analytical thought process and technical documentation style.
+  ---
 
+## 🤝 Connect with Me
   Feel free to explore the repositories and reach out via LinkedIn for professional inquiries [LinkedIn]      (https://www.linkedin.com/in/andrewsuhcarter/)
